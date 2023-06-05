@@ -18,7 +18,7 @@ The repository contains Python file ( named according to the problem ad their pr
 **Usage**
 To use this repository, you can clone it locally using the following command in your command line or terminal:
 
->> git clone https://github.com/adelajaOlamilekan/algorithm_solutions.git
+git clone https://github.com/adelajaOlamilekan/algorithm_solutions.git
 
 Once cloned, you can navigate to the specific problem file and find the corresponding solution. Each solution is accompanied by detailed comments explaining the thought process and approach taken.
 
